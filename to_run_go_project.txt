@@ -1,0 +1,3 @@
+to run whole go project 
+-->go run main.go helper.go
+-->go run .(all files in current folder)
